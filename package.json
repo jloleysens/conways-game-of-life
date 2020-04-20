@@ -1,0 +1,13 @@
+{
+  "name": "conways-game-of-life",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "serve": "yarn parcel serve index.html"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "typescript": "^3.8.3"
+  }
+}
